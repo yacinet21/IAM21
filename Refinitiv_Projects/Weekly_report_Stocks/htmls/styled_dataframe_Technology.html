@@ -1,0 +1,53 @@
+
+        <style>
+        body {
+            font-family: 'Calibri', sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border: none;
+            font-family: 'Calibri', sans-serif;
+        }
+        th, td {
+            border: none;
+            padding: 3px;
+            font-family: 'Calibri', sans-serif;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-size: 12px;
+            font-family: 'Calibri', sans-serif;
+        }
+        td {
+            font-size: 10px;
+            font-family: 'Calibri', sans-serif;
+        }
+        th:nth-child(1), td:nth-child(1),
+        th:nth-child(4), td:nth-child(4),
+        th:nth-child(7), td:nth-child(7),
+        th:nth-child(11), td:nth-child(11) {
+            border-left: 2px solid black;
+        }
+        th:nth-child(15), td:nth-child(15) {
+            border-right: 2px solid black;
+        }
+        thead th {
+            border-top: 2px solid black;
+        }
+        tbody tr:last-child td {
+            border-bottom: 2px solid black;
+        }
+        /* Add specific column widths and overflow handling for certain columns */
+        th, td {
+            width: 100px; /* Default width for all columns */
+            font-family: 'Calibri', sans-serif;
+        }
+        th:nth-child(2), td:nth-child(2),  /* Industry column */
+        th:nth-child(3), td:nth-child(3) { /* Name column */
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        </style>
+    <table><thead><tr><th style="text-align: left;">Ticker</th><th style="text-align: left;">Name</th><th style="text-align: left;">Industry</th><th style="text-align: right;">Mkt Cap</th><th style="text-align: right;">Last Price</th><th style="text-align: right;">Avg 3M Volume</th><th style="text-align: right;">1Wk</th><th style="text-align: right;">1Mo</th><th style="text-align: right;">3Mo</th><th style="text-align: right;">YTD</th><th style="text-align: right;">P/B</th><th style="text-align: right;">DY</th><th style="text-align: right;">P/E LTM</th><th style="text-align: right;">P/E NTM</th><th style="text-align: right;">P/E FY1</th></tr></thead><tbody><tr><td style="; text-align: left;">7203</td><td style="; text-align: left;">ELM</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">18.0</td><td style="; text-align: right;">853.4</td><td style="; text-align: right;">21.7</td><td style="; text-align: right;">2.8%</td><td style="; text-align: right;">-1.3%</td><td style="; text-align: right;">-13.2%</td><td style="; text-align: right;">4.0%</td><td style="background-color: lightsalmon; text-align: right;">16.2x</td><td style="; text-align: right;">0.8%</td><td style="background-color: lightsalmon; text-align: right;">49.0x</td><td style="background-color: lightsalmon; text-align: right;">37.5x</td><td style="background-color: lightsalmon; text-align: right;">41.2x</td></tr><tr><td style="; text-align: left;">7202</td><td style="; text-align: left;">SOLUTIONS</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">9.0</td><td style="; text-align: right;">293.8</td><td style="; text-align: right;">16.2</td><td style="; text-align: right;">0.2%</td><td style="background-color: palegreen; text-align: right;">2.3%</td><td style="background-color: lightsalmon; text-align: right;">-23.4%</td><td style="background-color: lightsalmon; text-align: right;">-17.5%</td><td style="; text-align: right;">9.5x</td><td style="background-color: palegreen; text-align: right;">2.1%</td><td style="; text-align: right;">27.3x</td><td style="background-color: palegreen; text-align: right;">22.1x</td><td style="background-color: palegreen; text-align: right;">23.7x</td></tr><tr><td style="; text-align: left;">PRESIGHT</td><td style="; text-align: left;">PRESIGHT AI HO</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">3.3</td><td style="; text-align: right;">2.1</td><td style="; text-align: right;">2.8</td><td style="background-color: lightsalmon; text-align: right;">-6.6%</td><td style="background-color: lightsalmon; text-align: right;">-10.9%</td><td style="background-color: palegreen; text-align: right;">15.1%</td><td style="background-color: lightsalmon; text-align: right;">-1.8%</td><td style="; text-align: right;">3.9x</td><td style="background-color: lightsalmon; text-align: right;">0.0%</td><td style="background-color: palegreen; text-align: right;">18.5x</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td></tr><tr><td style="; text-align: left;">9526</td><td style="; text-align: left;">JAHEZ</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">1.6</td><td style="; text-align: right;">27.9</td><td style="; text-align: right;">1.6</td><td style="background-color: lightsalmon; text-align: right;">-12.9%</td><td style="; text-align: right;">-5.1%</td><td style="background-color: lightsalmon; text-align: right;">-20.7%</td><td style="; text-align: right;">6.0%</td><td style="; text-align: right;">5.0x</td><td style="; text-align: right;">-</td><td style="; text-align: right;">46.2x</td><td style="background-color: lightsalmon; text-align: right;">30.7x</td><td style="background-color: lightsalmon; text-align: right;">35.7x</td></tr><tr><td style="; text-align: left;">7200</td><td style="; text-align: left;">MIS CO</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">1.3</td><td style="; text-align: right;">166.2</td><td style="; text-align: right;">5.9</td><td style="; text-align: right;">1.8%</td><td style="background-color: palegreen; text-align: right;">11.7%</td><td style="background-color: palegreen; text-align: right;">18.9%</td><td style="; text-align: right;">22.1%</td><td style="background-color: lightsalmon; text-align: right;">13.9x</td><td style="; text-align: right;">0.9%</td><td style="background-color: lightsalmon; text-align: right;">122.6x</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td></tr><tr><td style="; text-align: left;">7204</td><td style="; text-align: left;">2P</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">1.2</td><td style="; text-align: right;">14.8</td><td style="; text-align: right;">5.0</td><td style="; text-align: right;">3.0%</td><td style="; text-align: right;">-1.4%</td><td style="; text-align: right;">-9.5%</td><td style="; text-align: right;">21.8%</td><td style="; text-align: right;">10.9x</td><td style="background-color: lightsalmon; text-align: right;">0.2%</td><td style="; text-align: right;">33.8x</td><td style="background-color: palegreen; text-align: right;">23.0x</td><td style="background-color: palegreen; text-align: right;">24.9x</td></tr><tr><td style="; text-align: left;">MEZA</td><td style="; text-align: left;">MEEZA</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">0.6</td><td style="; text-align: right;">3.5</td><td style="; text-align: right;">0.6</td><td style="; text-align: right;">-0.9%</td><td style="background-color: lightsalmon; text-align: right;">-6.2%</td><td style="; text-align: right;">9.5%</td><td style="background-color: palegreen; text-align: right;">25.8%</td><td style="background-color: palegreen; text-align: right;">3.4x</td><td style="background-color: palegreen; text-align: right;">2.3%</td><td style="; text-align: right;">37.3x</td><td style="; text-align: right;">30.5x</td><td style="; text-align: right;">35.0x</td></tr><tr><td style="; text-align: left;">2370</td><td style="; text-align: left;">MESC</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">0.3</td><td style="; text-align: right;">31.5</td><td style="; text-align: right;">6.1</td><td style="background-color: palegreen; text-align: right;">4.5%</td><td style="; text-align: right;">-0.3%</td><td style="; text-align: right;">13.4%</td><td style="background-color: palegreen; text-align: right;">41.7%</td><td style="background-color: palegreen; text-align: right;">3.1x</td><td style="; text-align: right;">-</td><td style="background-color: palegreen; text-align: right;">20.3x</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td></tr><tr><td style="; text-align: left;">7201</td><td style="; text-align: left;">ARAB SEA</td><td style="; text-align: left;">Technology</td><td style="; text-align: right;">0.2</td><td style="; text-align: right;">7.2</td><td style="; text-align: right;">1.7</td><td style="background-color: palegreen; text-align: right;">7.1%</td><td style="; text-align: right;">2.0%</td><td style="; text-align: right;">-6.7%</td><td style="; text-align: right;">3.1%</td><td style="; text-align: right;">6.0x</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td><td style="; text-align: right;">-</td></tr></tbody></table>

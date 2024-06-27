@@ -1,0 +1,402 @@
+{
+    "FAWAZ ABDULAZIZ ALHOKAIR & C": {
+        "BBG Ticker": "CENOMI AB",
+        "RIC Ticker": "4240.SE"
+    },
+    "ARAB NATIONAL BANK": {
+        "BBG Ticker": "ARNB AB",
+        "RIC Ticker": "1080.SE"
+    },
+    "BANQUE SAUDI FRANSI": {
+        "BBG Ticker": "BSF AB",
+        "RIC Ticker": "1050.SE"
+    },
+    "ETIHAD ETISALAT CO": {
+        "BBG Ticker": "EEC AB",
+        "RIC Ticker": "7020.SE"
+    },
+    "THE NATIONAL AGRICULTURE DEV": {
+        "BBG Ticker": "NADEC AB",
+        "RIC Ticker": "6010.SE"
+    },
+    "NATIONAL INDUSTRIALIZATION C": {
+        "BBG Ticker": "NIC AB",
+        "RIC Ticker": "2060.SE"
+    },
+    "RABIGH REFINING AND PETROCHE": {
+        "BBG Ticker": "PETROR AB",
+        "RIC Ticker": "2380.SE"
+    },
+    "AL RAJHI BANK": {
+        "BBG Ticker": "RJHI AB",
+        "RIC Ticker": "1120.SE"
+    },
+    "RENAISSANCE SERVICES SAOG": {
+        "BBG Ticker": "RNSS OM",
+        "RIC Ticker": "RNSS.OM"
+    },
+    "SAUDI AWWAL BANK": {
+        "BBG Ticker": "SABB AB",
+        "RIC Ticker": "1060.SE"
+    },
+    "SAUDI BASIC INDUSTRIES CORP": {
+        "BBG Ticker": "SABIC AB",
+        "RIC Ticker": "2010.SE"
+    },
+    "SAVOLA": {
+        "BBG Ticker": "SAVOLA AB",
+        "RIC Ticker": "2050.SE"
+    },
+    "SAHARA INTERNATIONAL PETROCH": {
+        "BBG Ticker": "SIPCHEM AB",
+        "RIC Ticker": "2310.SE"
+    },
+    "MOBILE TELECOMMUNICATIONS CO": {
+        "BBG Ticker": "ZAINKSA AB",
+        "RIC Ticker": "7030.SE"
+    },
+    "DANA GAS": {
+        "BBG Ticker": "DANA UH",
+        "RIC Ticker": "DANA.AD"
+    },
+    "EMAAR PROPERTIES PJSC": {
+        "BBG Ticker": "EMAAR UH",
+        "RIC Ticker": "EMAR.DU"
+    },
+    "TELECOM EGYPT": {
+        "BBG Ticker": "ETEL EY",
+        "RIC Ticker": "ETEL.CA"
+    },
+    "EFG HOLDING S.A.E.": {
+        "BBG Ticker": "HRHO EY",
+        "RIC Ticker": "HRHO.CA"
+    },
+    "CATRION CATERING HOLDING CO": {
+        "BBG Ticker": "CATERING AB",
+        "RIC Ticker": "6004.SE"
+    },
+    "BANKMUSCAT SAOG": {
+        "BBG Ticker": "BKMB OM",
+        "RIC Ticker": "BKMB.OM"
+    },
+    "NATIONAL MEDICAL CARE CO": {
+        "BBG Ticker": "CARE AB",
+        "RIC Ticker": "4005.SE"
+    },
+    "NATIONAL CO FOR GLASS IN/THE": {
+        "BBG Ticker": "ZOUJAJ AB",
+        "RIC Ticker": "2150.SE"
+    },
+    "ALUJAIN CORP": {
+        "BBG Ticker": "ALCO AB",
+        "RIC Ticker": "2170.SE"
+    },
+    "COMMERCIAL BANK PSQC": {
+        "BBG Ticker": "CBQK QD",
+        "RIC Ticker": "COMB.QA"
+    },
+    "EMIRATES NBD PJSC": {
+        "BBG Ticker": "EMIRATES UH",
+        "RIC Ticker": "ENBD.DU"
+    },
+    "AL-HASSAN G.I. SHAKER CO": {
+        "BBG Ticker": "SHAKER AB",
+        "RIC Ticker": "1214.SE"
+    },
+    "SAUDI INVESTMENT BANK/THE": {
+        "BBG Ticker": "SIBC AB",
+        "RIC Ticker": "1030.SE"
+    },
+    "BURGAN BANK": {
+        "BBG Ticker": "BURG KK",
+        "RIC Ticker": "BURG.KW"
+    },
+    "CITY CEMENT CO": {
+        "BBG Ticker": "CITYC AB",
+        "RIC Ticker": "3003.SE"
+    },
+    "SUSTAINED INFRASTRUCTURE HOL": {
+        "BBG Ticker": "SISCO AB",
+        "RIC Ticker": "2190.SE"
+    },
+    "AL HAMMADI HOLDING": {
+        "BBG Ticker": "ALHAMMAD AB",
+        "RIC Ticker": "4007.SE"
+    },
+    "YAMAMA CEMENT CO": {
+        "BBG Ticker": "YACCO AB",
+        "RIC Ticker": "3020.SE"
+    },
+    "QATAR NAVIGATION": {
+        "BBG Ticker": "QNNS QD",
+        "RIC Ticker": "QNNC.QA"
+    },
+    "GULF MARINE SERVICES PLC": {
+        "BBG Ticker": "GMS LN",
+        "RIC Ticker": "GMS.L"
+    },
+    "ARAB CO FOR ASSET MANAGEMENT": {
+        "BBG Ticker": "ACAMD EY",
+        "RIC Ticker": "ACAMD.CA"
+    },
+    "GLOBAL TELECOM HOLDING": {
+        "BBG Ticker": "GTHE EY",
+        "RIC Ticker": "GTHE.CA"
+    },
+    "SABIC AGRI-NUTRIENTS CO": {
+        "BBG Ticker": "SAFCO AB",
+        "RIC Ticker": "2020.SE"
+    },
+    "MALATH INSURANCE": {
+        "BBG Ticker": "MALATH AB",
+        "RIC Ticker": "8020.SE"
+    },
+    "BAWAN CO": {
+        "BBG Ticker": "BAWAN AB",
+        "RIC Ticker": "1302.SE"
+    },
+    "SAUDI CERAMIC CO": {
+        "BBG Ticker": "SCERCO AB",
+        "RIC Ticker": "2040.SE"
+    },
+    "NATIONAL BANK OF KUWAIT": {
+        "BBG Ticker": "NBK KK",
+        "RIC Ticker": "NBKK.KW"
+    },
+    "INTEGRATED HOLDING CO KCSC": {
+        "BBG Ticker": "INTEGRAT KK",
+        "RIC Ticker": "INTG.KW"
+    },
+    "DOHA BANK QPSC": {
+        "BBG Ticker": "DHBK QD",
+        "RIC Ticker": "DOBK.QA"
+    },
+    "OMAN TELECOMMUNICATIONS CO": {
+        "BBG Ticker": "OTEL OM",
+        "RIC Ticker": "OTEL.OM"
+    },
+    "SEERA GROUP HOLDING": {
+        "BBG Ticker": "SEERA AB",
+        "RIC Ticker": "1810.SE"
+    },
+    "SIDI KERIR PETROCHEMICALS CO": {
+        "BBG Ticker": "SKPC EY",
+        "RIC Ticker": "SKPC.CA"
+    },
+    "MAHARAH HUMAN RESOURCES CO": {
+        "BBG Ticker": "MAHARAH AB",
+        "RIC Ticker": "1831.SE"
+    },
+    "OOREDOO QPSC": {
+        "BBG Ticker": "ORDS QD",
+        "RIC Ticker": "ORDS.QA"
+    },
+    "ATAA EDUCATIONAL CO": {
+        "BBG Ticker": "ATAA AB",
+        "RIC Ticker": "4292.SE"
+    },
+    "MIDDLE EAST PAPER CO": {
+        "BBG Ticker": "MEPC AB",
+        "RIC Ticker": "1202.SE"
+    },
+    "ALDREES PETROLEUM AND TRANSP": {
+        "BBG Ticker": "ALDREES AB",
+        "RIC Ticker": "4200.SE"
+    },
+    "MEDINET NASR HOUSING": {
+        "BBG Ticker": "MNHD EY",
+        "RIC Ticker": "MASR.CA"
+    },
+    "SAUDI ARABIAN OIL CO": {
+        "BBG Ticker": "ARAMCO AB",
+        "RIC Ticker": "2222.SE"
+    },
+    "MIDDLE EAST HEALTHCARE CO": {
+        "BBG Ticker": "MEH AB",
+        "RIC Ticker": "4009.SE"
+    },
+    "SAUDI PUBLIC TRANSPORT CO": {
+        "BBG Ticker": "SAPTCO AB",
+        "RIC Ticker": "4040.SE"
+    },
+    "KUWAIT TELECOMMUNICATIONS CO": {
+        "BBG Ticker": "STC KK",
+        "RIC Ticker": "STC.KW"
+    },
+    "EMAAR DEVELOPMENT PJSC": {
+        "BBG Ticker": "EMAARDEV UH",
+        "RIC Ticker": "EMAARDEV.DU"
+    },
+    "SAUDI GROUND SERVICES CO": {
+        "BBG Ticker": "SGS AB",
+        "RIC Ticker": "4031.SE"
+    },
+    "JAZEERA AIRWAYS CO KSC": {
+        "BBG Ticker": "JAZEERA KK",
+        "RIC Ticker": "JAZK.KW"
+    },
+    "SAUDI RE FOR COOPERATIVE REI": {
+        "BBG Ticker": "SAUDIRE AB",
+        "RIC Ticker": "8200.SE"
+    },
+    "AVIATION LEASE AND FINANCE C": {
+        "BBG Ticker": "ALAFCO KK",
+        "RIC Ticker": "ALAF.KW"
+    },
+    "ORASCOM CONSTRUCTION PLC": {
+        "BBG Ticker": "ORAS EY",
+        "RIC Ticker": "OC.DI"
+    },
+    "QATAR INSURANCE CO": {
+        "BBG Ticker": "QATI QD",
+        "RIC Ticker": "QINS.QA"
+    },
+    "SAUDI CO FOR HARDWARE LLC": {
+        "BBG Ticker": "SCH AB",
+        "RIC Ticker": "4008.SE"
+    },
+    "JUHAYNA FOOD INDUSTRIES": {
+        "BBG Ticker": "JUFO EY",
+        "RIC Ticker": "JUFO.CA"
+    },
+    "ALKHORAYEF WATER & POWER TEC": {
+        "BBG Ticker": "AWPT AB",
+        "RIC Ticker": "2081.SE"
+    },
+    "SIX OF OCTOBER DEVELOPMENT": {
+        "BBG Ticker": "OCDI EY",
+        "RIC Ticker": "OCDI.CA"
+    },
+    "THEEB RENT A CAR CO": {
+        "BBG Ticker": "THEEB AB",
+        "RIC Ticker": "4261.SE"
+    },
+    "THE SAUDI NATIONAL BANK": {
+        "BBG Ticker": "SNB AB",
+        "RIC Ticker": "1180.SE"
+    },
+    "NATIONAL REAL ESTATE CO": {
+        "BBG Ticker": "NRE KK",
+        "RIC Ticker": "NREK.KW"
+    },
+    "JAZEERA AIRWAYS CO KSCP": {
+        "BBG Ticker": "JAZEERA1 KK",
+        "RIC Ticker": "JAZK.KW"
+    },
+    "AL YAH SATELLITE COMMUNICATI": {
+        "BBG Ticker": "YAHSAT UH",
+        "RIC Ticker": "YAHSAT.AD"
+    },
+    "TANMIAH FOOD CO": {
+        "BBG Ticker": "TANMIAH AB",
+        "RIC Ticker": "2281.SE"
+    },
+    "OCI NV": {
+        "BBG Ticker": "OCI NA",
+        "RIC Ticker": "OCI.AS"
+    },
+    "INDUSTRIES QATAR": {
+        "BBG Ticker": "IQCD QD",
+        "RIC Ticker": "IQCD.QA"
+    },
+    "ARABIAN INTERNET & COMMUNICA": {
+        "BBG Ticker": "SOLUTION AB",
+        "RIC Ticker": "7202.SE"
+    },
+    "ARAMEX PJSC": {
+        "BBG Ticker": "ARMX UH",
+        "RIC Ticker": "ARMX.DU"
+    },
+    "FERTIGLOBE PLC": {
+        "BBG Ticker": "FERTIGLB UH",
+        "RIC Ticker": "FERTIGLB.AD"
+    },
+    "SAUDI TELECOM CO": {
+        "BBG Ticker": "STC AB",
+        "RIC Ticker": "7010.SE"
+    },
+    "ELM CO": {
+        "BBG Ticker": "ELM AB",
+        "RIC Ticker": "7203.SE"
+    },
+    "AL-DAWAA MEDICAL SERVICES CO": {
+        "BBG Ticker": "ALDAWAA AB",
+        "RIC Ticker": "4163.SE"
+    },
+    "DUBAI ELECTRICITY & WATER AU": {
+        "BBG Ticker": "DEWA UH",
+        "RIC Ticker": "DEWAA.DU"
+    },
+    "OMAN CEMENT CO": {
+        "BBG Ticker": "OCOI OM",
+        "RIC Ticker": "OCOI.OM"
+    },
+    "YANBU NATIONAL PETROCHEMICAL": {
+        "BBG Ticker": "YANSAB AB",
+        "RIC Ticker": "2290.SE"
+    },
+    "ALMARAI CO": {
+        "BBG Ticker": "ALMARAI AB",
+        "RIC Ticker": "2280.SE"
+    },
+    "ISHRS MSCI SAUDI ARABIA ETF": {
+        "BBG Ticker": "KSA US",
+        "RIC Ticker": "KSA"
+    },
+    "AGTHIA GROUP PJSC": {
+        "BBG Ticker": "AGTHIA UH",
+        "RIC Ticker": "AGTHIA.AD"
+    },
+    "ADNOC GAS PLC": {
+        "BBG Ticker": "ADNOCGAS UH",
+        "RIC Ticker": "ADNOCGAS.AD"
+    },
+    "ARABIAN CONTRACTING SERVICES": {
+        "BBG Ticker": "ALARABIA AB",
+        "RIC Ticker": "4071.SE"
+    },
+    "AL ANSARI FINANCIAL SERVICES": {
+        "BBG Ticker": "ALANSARI UH",
+        "RIC Ticker": "ALANSARI.DU"
+    },
+    "QATAR NATIONAL BANK": {
+        "BBG Ticker": "QNBK QD",
+        "RIC Ticker": "QNBK.QA"
+    },
+    "MEZZAN HOLDING CO KSCC": {
+        "BBG Ticker": "MEZZAN KK",
+        "RIC Ticker": "MEZZ.KW"
+    },
+    "ADNOC LOGISTICS & SERVICES": {
+        "BBG Ticker": "ADNOCLS UH",
+        "RIC Ticker": "ADNOCLS.AD"
+    },
+    "FIRST MILLING CO": {
+        "BBG Ticker": "FIRSTMILL AB",
+        "RIC Ticker": "2283.SE"
+    },
+    "ADES HOLDING CO": {
+        "BBG Ticker": "ADES AB",
+        "RIC Ticker": "2382.SE"
+    },
+    "MBC GROUP CJSC": {
+        "BBG Ticker": "MBCGROUP AB",
+        "RIC Ticker": "4072.SE"
+    },
+    "SAUDI ELECTRICITY CO": {
+        "BBG Ticker": "SECO AB",
+        "RIC Ticker": "5110.SE"
+    },
+    "SPINNEYS 1961 HOLDING PLC": {
+        "BBG Ticker": "SPINNEYS UH",
+        "RIC Ticker": "SPINNEYS.DU"
+    },
+    "AGILITY GLOBAL PLC": {
+        "BBG Ticker": "AGILITY UH",
+        "RIC Ticker": "AGILITY.AD"
+    },
+    "GULF WAREHOUSING COMPANY": {
+        "BBG Ticker": "GWCS QD",
+        "RIC Ticker": "GWCS.QA"
+    }
+}

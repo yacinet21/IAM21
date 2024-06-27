@@ -1,0 +1,44 @@
+{
+    "logs": {
+        "level": "debug",
+        "transports": {
+            "console": {
+                "enabled": false
+            },
+            "file": {
+                "enabled": false,
+                "name": "refinitiv-data-lib.log"
+            }
+        }
+    },
+    "sessions": {
+        "default": "platform.rdp",
+        "platform": {
+            "your_session_name":{
+                "signon_control":true
+            },
+            "rdp": {
+                "app-key": "6196bf6f1e684278973c15933aa7ce12d7df86d6",
+                "username": "riyyas@integra.am",
+                "password": "2637@Mermez"
+            },
+            "deployed": {
+                "app-key": "6196bf6f1e684278973c15933aa7ce12d7df86d6",
+                "realtime-distribution-system": {
+                    "url" : "http://localhost:9000/api/",
+                    "dacs" : {
+                        "username" : "YOUR DACS ID GOES HERE!",
+                        "application-id" : 256,
+                        "position" : ""
+                    }
+                }
+            }
+        },
+        "desktop": {
+            "workspace": {
+                "app-key": "6196bf6f1e684278973c15933aa7ce12d7df86d6"
+            }
+        }
+    }
+}
+
